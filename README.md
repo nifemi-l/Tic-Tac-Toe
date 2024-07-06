@@ -19,5 +19,3 @@ If the board is filled without any player winning, the game will declare it a dr
 
 ## **Requirements**
 Python 3.x
-Running the Game
-To play the game, download the script and run it in your Python environment:
