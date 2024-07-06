@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Global variable to track exit request
 exit_requested = False 
 
