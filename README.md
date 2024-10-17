@@ -1,4 +1,4 @@
-# **Tic-Tac-Toe Game in Python**
+# **Tic-Tac-Toe**
 
 ## **Overview**
 This Tic-Tac-Toe game is a console-based version of the classic game. The game keeps track of each player's score and allows multiple rounds of gameplay.
