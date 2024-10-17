@@ -1,13 +1,12 @@
 # **Tic-Tac-Toe Game in Python**
 
 ## **Overview**
-This Tic-Tac-Toe game is a simple yet fun console-based version of the classic game. Designed in Python, it offers an interactive experience where two players can play against each other. The game keeps track of each player's score and allows multiple rounds of gameplay.
+This Tic-Tac-Toe game is a console-based version of the classic game. The game keeps track of each player's score and allows multiple rounds of gameplay.
 
 ## **Features**
 * **Console-Based Interaction:** Simple and clear output that allows players to choose positions on a 3x3 grid.
 * **Score Tracking:** Scores for both players ('X' and 'O') are tracked and displayed after each game.
 * **Multiple Rounds:** The game supports playing multiple rounds and tracks the number of rounds.
-* **Win Detection:** Automatically detects and announces the winner for each round.
 * **Replayability:** Players can choose to play again after each round.
 
 ## **How to Play**
